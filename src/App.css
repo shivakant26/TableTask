@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.menu a{
+    padding: 7px 40px;
+    text-decoration: none;
+    color: #95955e;
+}
+.header{
+  padding: 20px 0px;
+  background-color: black;
+}
+.header h2{
+  color:#fff;
+} 
+.menu {
+  padding: 11px 0px;
+}
+.del{
+margin-left: 10px;
+}
+.error{
+color:red;
+}
